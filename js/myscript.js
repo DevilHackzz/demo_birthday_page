@@ -21,7 +21,7 @@ const start = () => {
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Your Name😍🥰😘", "Sister Name", "Brother Name", "Friend Name", "Bestie Name", "Daughter Name 😍🥰😘", "Son Name"];
+const textArray = ["Your Name😍🥰😘", "Sister Name😍🥰😘", "Brother Name😍🥰😘", "Friend Name😍🥰😘", "Bestie Name😍🥰😘", "Daughter Name😍🥰😘", "Son Name😍🥰😘"];
 const typingDelay = 200;
 const erasingDelay = 70;
 const newTextDelay = 1000; // Delay between current and next text
