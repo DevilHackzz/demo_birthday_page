@@ -1,6 +1,6 @@
 # Birthday Page Demo
 
-![Birthday Page Demo Screenshot](https://devilhackzz.github.io/screenshots/screenshot.png) <!-- Add a screenshot of your Birthday Page Demo here -->
+![Birthday Page Demo Screenshot](https://devilhackzz.github.io/iamages/mockup.png) <!-- Add a screenshot of your Birthday Page Demo here -->
 
 ## Overview
 
