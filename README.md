@@ -4,6 +4,9 @@
 
 ## Overview
 
+[Watch the Video](https://devilhackzz.github.io/demo_birthday_page/mockup20%video.mp4)
+
+
 This repository showcases a customizable birthday page designed to help you celebrate your loved ones' special occasions. It's a single-page project created using HTML, CSS, and perhaps a touch of JavaScript for interactivity.
 
 **Live Demo:** [View Birthday Page Demo](https://devilhackzz.github.io/demo_birthday_page/)
